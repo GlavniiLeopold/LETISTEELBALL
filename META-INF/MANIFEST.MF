@@ -1,0 +1,117 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: t7JQhDsrrImqDt3ypbACN8uR9Dw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2q1qHtARmXoQokMYoeZDN9G4cKY=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: DyaUaIrgnGpbU+bio4ntdTeaB2o=
+
+Name: assets/bin/Data/sharedassets1.assets
+SHA1-Digest: w11kZ6JknjWLzjKshIjBsSTaJ5o=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: YP4SBfQsFksChnIOFy3SqbsYDJ4=
+
+Name: assets/bin/Data/sharedassets2.assets
+SHA1-Digest: rf1PJFB0uTl3o+aAtwMEU2yr9M8=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: LwA4r/ynnCTn9lujfzpvJw3oOQM=
+
+Name: assets/bin/Data/sharedassets3.assets
+SHA1-Digest: rf1PJFB0uTl3o+aAtwMEU2yr9M8=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: 01VIVFUFLZdAbFp85T2/pTOTxNM=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: atKhqUDrcYCyv+8Vn/ZCKUVSTY4=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: DOmotZFaKY7zzIq24QhaOlkkvf0=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: R5dWxHVmFeRogrBds3Ys70FFXmM=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: hwufgtFcXmb1dO4XFbykNjMjYMs=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: c/pbhLL85htPUIU/MQT/xGqOtM0=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: nAidGLWhjp76TgyZFF9dmOwhMkA=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: 8M2l5CkK/mNBqgKtOqsasWEybhw=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: mlzM/9vT+WWNU0i1XrDiZ4GgYWM=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: /mICAor2omdxlrZwtfviEhyMbcw=
+
+Name: assets/bin/Data/level3
+SHA1-Digest: selt58QO74he8W6ZYGV/T2Vk2qA=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: yhKNi3wkegLGqaZsfdMruT9fMYs=
+
+Name: assets/bin/Data/level2
+SHA1-Digest: tV1/Pj+df4oyqDQI5UoRpcEdC0w=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: DCuHZ+XurjQ0cu2izw+VPMuZx/c=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: jyE7j+oAN8f3P7DxgKC8CBIh9L4=
+
+Name: res/drawable-mdpi-v4/app_icon.png
+SHA1-Digest: cB15dUWHldkBDiPcAzkn0dDpbYA=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: aqv4ndS5je2XQWdMhG66+5fhv9I=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: 5FG4X8FIuyBYcYkxtxRp9P8yiU0=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: aFGj2XQlFAoA3/lLm0DLMC8q28k=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: DVGtaiU1KaP02yZClCS8kLNMhv8=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: PZlO2JIa365KscmEW/+99+DHlG4=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: +2KTNvJgHhI65cWzrfMQ+09U3hk=
+
+Name: assets/bin/Data/Managed/UnityEngine.Analytics.dll
+SHA1-Digest: m23jSWyWDSX/ew7BnRAnTULLYQU=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: RIqaucC5EqzxFEsoZbOZ9+2PwvE=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: g8u5qlepk/0OImIXO7RbCrxKMQw=
+
+Name: resources.arsc
+SHA1-Digest: HOcnkTGgXRRBiVQV5/XPp95WeN8=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: xBbzt4s2WaOFw2ThltieH2XuZU0=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: z4KCK7CUiGpmGsp60oXEHurrsV8=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: 4kyPxUrffv5Hn5BtxMbNr1emLMM=
+
+Name: classes.dex
+SHA1-Digest: TvsuX5xAH22GUV7+VX5ngeVb8dc=
+
